@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals
+# GitHub Actions Fundamentals - CEP - CEP - CEP - CEP - CEP - CEP - CEP - CEP - CEP - CEP - CEP - CEP - 
 
 Repo for the `GitHub Actions Fundamentals` training.
 
